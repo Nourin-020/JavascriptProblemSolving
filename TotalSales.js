@@ -9,3 +9,5 @@ function totalSales(shirt,pant,shoe){
   
   }
   totalSales(5,10,20); 
+
+  console.log(123);
